@@ -10,7 +10,7 @@ This course will be dedicated to all Android Developers out there wanting to cre
 If you are ready, let me guide you through to familiarize how this app works and where do you start.
 
 
-![GIF](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/BONUS%20SECTION%20Calculator%20app.gif =100x20)
-![GIF](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/Calculator%20appgif.gif =400x600 "Calculator app")
-![Screenshot](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/Screenshot_1535619175.png =400x600 "Calculator app")
-![Screenshot](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/Screenshot_1535619198.png =400x600 "Calculator app")
+![GIF](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/BONUS%20SECTION%20Calculator%20app.gif)
+![GIF](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/Calculator%20appgif.gif "Calculator app")
+![Screenshot](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/Screenshot_1535619175.png "Calculator app")
+![Screenshot](https://github.com/YeohLj/Calculator-Android-App-/blob/master/Screenshot/Screenshot_1535619198.png "Calculator app")
