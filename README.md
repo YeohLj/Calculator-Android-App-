@@ -10,3 +10,7 @@ This course will be dedicated to all Android Developers out there wanting to cre
 If you are ready, let me guide you through to familiarize how this app works and where do you start.
 
 
+!Screenshot]( "Calculator app")
+!Screenshot]( "Calculator app")
+!Screenshot]( "Calculator app")
+!Screenshot]( "Calculator app")
